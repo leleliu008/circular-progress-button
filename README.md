@@ -1,3 +1,12 @@
+#circular-progress-button 
+compat with aapt2: https://developer.android.com/studio/build/gradle-plugin-3-0-0.html?hl=en
+<br>
+usage:
+<br>
+```
+ api("com.fpliu:circular-progress-button:1.0.0")
+```
+
 :small_red_triangle: **Before using this library, read information below** :small_red_triangle:
 ```
 This library is not more supported. 
